@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ashish Kandel</h1>
 <h3 align="center">... Learning & Exploring ...</h3>
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Deep Learning**
 
 - 💬 Ask me about **React, NodeJs, Arduino**
 
