@@ -45,5 +45,5 @@
 
 <p align="center">
   <!-- Contribution + Streak Stats (historic, includes all contributions ~660+, longest streak ~26) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ashish-509&theme=default" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=ashish-509&theme=default" alt="GitHub Streak" />
 </p>
