@@ -37,10 +37,13 @@
 ---
 
 ## 📊 GitHub Stats  
+
 <p align="center">
+  <!-- Top Languages (auto-refresh daily) -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashish-509&layout=compact&show_icons=true&locale=en&cache_seconds=86400" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashish-509&theme=default&cache_seconds=86400" alt="GitHub Streak" />
+  <!-- Contribution + Streak Stats (historic, includes all contributions ~660+, longest streak ~26) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ashish-509&theme=default" alt="GitHub Streak" />
 </p>
