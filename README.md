@@ -1,49 +1,53 @@
 # Hi 👋, I'm Ashish Kandel  
-### 🚀 Learning & Exploring Deep Learning & GenAI  
+### Exploring Machine Learning, Deep Learning & GenAI
 
-- 🌱 I’m currently learning **Deep Learning, GenAI**  
-- 💬 Ask me about **React, Node.js, Arduino**  
-- 📫 Reach me at: **ashishkandel509@gmail.com**  
+I work on data-driven projects where I analyze data, build models, evaluate results, and ship reproducible solutions under real-world constraints.
 
----
+- 🌱 Currently focused on **Machine Learning, Deep Learning, and GenAI**
+- 💬 Comfortable with **React, Node.js, Arduino**
+- 📫 Reach me at: **ashishkandel509@gmail.com**
 
-## 🌐 Connect with me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ashish-kandel-b2b77a257)
+## 🧠 Worked On
+- Exploratory Data Analysis with data cleaning, validation, and visualization  
+- Supervised ML with leakage-proof pipelines, calibration, and cost-based decisions  
+- Computer Vision using CNNs and transfer learning with model diagnostics  
+- NLP & LLM workflows including baselines, prompt design, RAG, and lightweight fine-tuning  
+- Knowledge Graphs and RAG-based systems with structured querying and retrieval  
 
----
-
-## ⚡ Languages and Tools  
+## ⚡ Tech Stack
 <p align="center">
-  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/> 
+  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40"/>
 </p>
 
----
+**GenAI & Data Tools:** LangChain, LangGraph, Vector Databases, RAG, Streamlit
 
-## 📊 GitHub Stats  
-
+## 📊 GitHub Stats
 <p align="center">
-  <!-- Top Languages (auto-refresh daily) -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashish-509&layout=compact&show_icons=true&locale=en&cache_seconds=86400" alt="Top Languages" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=ashish-509&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" 
+    height="160"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashish-509&layout=compact&langs_count=8&hide_border=true" 
+    height="160"
+  />
 </p>
 
-<p align="center">
-  <!-- Contribution + Streak Stats (historic, includes all contributions ~660+, longest streak ~26) -->
-  <img src="https://streak-stats.demolab.com?user=ashish-509&theme=default" alt="GitHub Streak" />
-</p>
+
+## 🌐 Connect
+- LinkedIn: https://linkedin.com/in/ashish-kandel-b2b77a257  
+- GitHub: https://github.com/ashish-509
